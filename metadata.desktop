@@ -1,0 +1,15 @@
+[SddmGreeterTheme]
+Name=ME for Plasma
+Description=The hottest theme for KDE Plasma
+Author=Mounir Erhili
+License=GPL-3.0-or-later
+Type=sddm-theme
+Version=0.5.5
+Website=https://github.com/MounirErhili/sddm-plasma-ME
+Screenshot=Preview.png
+MainScript=Main.qml
+ConfigFile=theme.conf
+TranslationsDirectory=translations
+Email=mounirerhili@gmail.com
+Theme-Id=sddm-plasma-ME
+Theme-API=2.0
